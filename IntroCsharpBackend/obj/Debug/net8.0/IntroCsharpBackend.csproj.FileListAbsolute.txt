@@ -1,0 +1,14 @@
+/home/nestor/Documentos/cursos/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend
+/home/nestor/Documentos/cursos/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.deps.json
+/home/nestor/Documentos/cursos/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.runtimeconfig.json
+/home/nestor/Documentos/cursos/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.dll
+/home/nestor/Documentos/cursos/IntroCsharpBackend/bin/Debug/net8.0/IntroCsharpBackend.pdb
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.GeneratedMSBuildEditorConfig.editorconfig
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.AssemblyInfoInputs.cache
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.AssemblyInfo.cs
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.csproj.CoreCompileInputs.cache
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.dll
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/refint/IntroCsharpBackend.dll
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.pdb
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/IntroCsharpBackend.genruntimeconfig.cache
+/home/nestor/Documentos/cursos/IntroCsharpBackend/obj/Debug/net8.0/ref/IntroCsharpBackend.dll
